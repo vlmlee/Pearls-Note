@@ -11,7 +11,7 @@
 
 # Important Notes
 
-## Program into a language, not in it.
+__Program into a language, not in it.__
 
 ## The contribution of computer science to software is often through simple ideas. 
 
@@ -41,7 +41,7 @@
 5. System-Dependent Code Tuning
 6. Hardware
 
-## The battle for a fast system can be won or lost in specifying the problem it is to solve.
+__The battle for a fast system can be won or lost in specifying the problem it is to solve.__
 
 # System Structure
 
@@ -53,11 +53,11 @@ Algorithms and Data Structures: the keys to a fast module are usually the struct
 
 The cheapest, fastest, and most reliable components of a computer system are those that aren’t there. The importance of a simple design can’t be overemphasized.
 
-## Use the principle of common sense: if something doesn’t sound right, it most likely isn’t. And even so, double check always!
+__Use the principle of common sense: if something doesn’t sound right, it most likely isn’t. And even so, double check always!__
 
-## Employ safety factors to compensate for your ignorance. 
+__Employ safety factors to compensate for your ignorance.__
 
-## Crabbing
+__Crabbing: aim to overperform/overcompensate or you may miss your target.__
 
 # Algorithm Design
 
@@ -94,4 +94,5 @@ The cheapest, fastest, and most reliable components of a computer system are tho
 1. Before you build a fancy program, experiment with a simple prototype on many inputs. 
 2. Separate the concerns. A well built program is divided into independent components, each of which does one thing well. 
 3. Use the tools available to you: prototyping, simplicity, separating concerns, careful problem definition, and back of the envelope calculations.
-4. Good engineers distinguish between what a component does and how it does it. 
+
+__Good engineers distinguish between what a component does and how it does it.__
