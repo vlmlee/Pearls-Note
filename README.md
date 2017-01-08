@@ -47,7 +47,7 @@ __The battle for a fast system can be won or lost in specifying the problem it i
 
 The decomposition of a large system into modules is probably the single most important factor in determining its performance.
 
-Algorithms and Data Structures: the keys to a fast module are usually the structures that represent its data and the algorithms that operate on the data.
+__The keys to fast modules are usually the structures that represent its data and the algorithms that operate on the data.__
 
 # Observations
 
